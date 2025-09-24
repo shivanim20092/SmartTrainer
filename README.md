@@ -12,7 +12,7 @@ It can help identify common posture problems (like slouching or forward head pos
 
 ---
 
-## 🛠️ Installation & Setup
+## 🛠️ Installation & Setup (If node js is available on local)
 
 ### 1. Clone the repo, Install dependencies and start the app
 ```bash
